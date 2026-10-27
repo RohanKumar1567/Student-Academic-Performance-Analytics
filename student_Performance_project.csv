@@ -1,0 +1,19 @@
+student_id,student_name,gender,class_name,subject_name,exam_name,exam_date,marks_obtained,total_marks,marks_percentage,attendance_percentage,result
+1,"Aarav Sharma",Male,MCA,DBMS,"Mid Term",2026-09-15,85.00,100.00,85.00,90.00,Pass
+1,"Aarav Sharma",Male,MCA,Python,"Mid Term",2026-09-15,78.00,100.00,78.00,90.00,Pass
+1,"Aarav Sharma",Male,MCA,Mathematics,"Mid Term",2026-09-15,92.00,100.00,92.00,90.00,Pass
+2,"Priya Verma",Female,MCA,DBMS,"Mid Term",2026-09-15,90.00,100.00,90.00,96.00,Pass
+2,"Priya Verma",Female,MCA,Python,"Mid Term",2026-09-15,88.00,100.00,88.00,96.00,Pass
+2,"Priya Verma",Female,MCA,Mathematics,"Mid Term",2026-09-15,95.00,100.00,95.00,96.00,Pass
+3,"Rahul Singh",Male,MCA,DBMS,"Mid Term",2026-09-15,45.00,100.00,45.00,65.00,Pass
+3,"Rahul Singh",Male,MCA,Python,"Mid Term",2026-09-15,55.00,100.00,55.00,65.00,Pass
+3,"Rahul Singh",Male,MCA,Mathematics,"Mid Term",2026-09-15,40.00,100.00,40.00,65.00,Pass
+4,"Ananya Gupta",Female,MCA,DBMS,"Mid Term",2026-09-15,72.00,100.00,72.00,85.00,Pass
+4,"Ananya Gupta",Female,MCA,Python,"Mid Term",2026-09-15,80.00,100.00,80.00,85.00,Pass
+4,"Ananya Gupta",Female,MCA,Mathematics,"Mid Term",2026-09-15,76.00,100.00,76.00,85.00,Pass
+5,"Karan Kumar",Male,MCA,DBMS,"Mid Term",2026-09-15,32.00,100.00,32.00,55.00,Fail
+5,"Karan Kumar",Male,MCA,Python,"Mid Term",2026-09-15,48.00,100.00,48.00,55.00,Pass
+5,"Karan Kumar",Male,MCA,Mathematics,"Mid Term",2026-09-15,35.00,100.00,35.00,55.00,Fail
+6,"Simran Kaur",Female,MCA,DBMS,"Mid Term",2026-09-15,68.00,100.00,68.00,88.00,Pass
+6,"Simran Kaur",Female,MCA,Python,"Mid Term",2026-09-15,74.00,100.00,74.00,88.00,Pass
+6,"Simran Kaur",Female,MCA,Mathematics,"Mid Term",2026-09-15,82.00,100.00,82.00,88.00,Pass
